@@ -1,0 +1,7 @@
+﻿要用到的环境：Linux系统，gdb，gdb with peda，pwntools，python。
+安装链接
+peda ：https://github.com/longld/peda
+pwntools：使用pip安装 pip install pwntools
+另外我想先请大家稍微预习一下，因为这次例会的内容可能会难以理解。
+参考链接
+https://blog.csdn.net/h___q/article/details/79038327
